@@ -1,0 +1,44 @@
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\PersonelIzinTakip.exe
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\PersonelIzinTakip.deps.json
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\PersonelIzinTakip.runtimeconfig.json
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\PersonelIzinTakip.dll
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\PersonelIzinTakip.pdb
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.dll
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\refint\PersonelIzinTakip.dll
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.pdb
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\ref\PersonelIzinTakip.dll
+C:\Users\Mustafa\Desktop\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.csproj.CopyComplete
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\PersonelIzinTakip.exe
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\PersonelIzinTakip.deps.json
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\PersonelIzinTakip.runtimeconfig.json
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\PersonelIzinTakip.dll
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\PersonelIzinTakip.pdb
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.csproj.CopyComplete
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.dll
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\refint\PersonelIzinTakip.dll
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.pdb
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\PersonelIzinTakip.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\Personel İzin Takip Sistemi -019\personel izin takip\PersonelIzinTakip\obj\Debug\net8.0-windows\ref\PersonelIzinTakip.dll
